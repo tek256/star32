@@ -1,0 +1,4 @@
+#ifndef STAR_AUDIO_INCLUDED
+#define STAR_AUDIO_INCLUDED
+
+#endif

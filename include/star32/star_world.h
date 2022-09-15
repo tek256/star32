@@ -1,0 +1,4 @@
+#ifndef STAR_WORLD_INCLUDED
+#define STAR_WORLD_INCLUDED
+
+#endif

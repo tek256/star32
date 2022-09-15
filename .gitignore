@@ -1,6 +1,19 @@
 # Prerequisites
 *.d
 
+# Vim files
+.swp
+:w
+tags
+
+# VSCode
+.vscode/
+
+# Build files
+build/
+CMakeCache.txt
+.DS_Store
+
 # Object files
 *.o
 *.ko
@@ -50,3 +63,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+

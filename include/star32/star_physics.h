@@ -1,0 +1,4 @@
+#ifndef STAR_PHYSICS_INCLUDED
+#define STAR_PHYSICS_INCLUDED
+
+#endif
